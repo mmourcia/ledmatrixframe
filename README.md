@@ -4,7 +4,12 @@
 
 For a running event I am organizing, [La 147](https://la147.run), I need a sufficiently large LED matrix to make the welcome area visible from a distance. I have decided to use a chain of LED panels measuring 320mm x 160mm
 
-[result](./img/result.png)
+![gif](./data/gifs/la147-course-enfants.gif)
+
+
+The frame :
+
+![result](./img/result.png)
 
 ## Hardware
 
