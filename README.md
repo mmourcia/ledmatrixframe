@@ -14,7 +14,7 @@ For a running event I am organizing, [La 147](https://la147.run), I need a suffi
 | ---------------------------- | ----------------------------------------------------- | ----------- |
 | Adafruit matrix portal s3    | ![matrix portal](./img/adafruit-matrix-portal-s3.jpg) | An ESP32 controller with direct connexion to led panel |
 | 6 Led panels 64x32 p5        | ![matrix portal](./img/led-panels-p5.png)             | [Led panels](https://fr.aliexpress.com/item/1005006609961440.html?spm=a2g0o.order_list.order_list_main.5.34765e5b7eZUdO&gatewayAdapt=glo2fra) |
-| Power Unit 5V 40A            | ![power](./img/power.png)                             | [power](https://fr.aliexpress.com/item/33023098714.html?spm=a2g0o.order_list.order_list_main.10.27ff5e5bdnBtsF&gatewayAdapt=glo2fra) |
+| Power Unit 5V 40A            | ![power](./img/power.png)                             | [Power](https://fr.aliexpress.com/item/33023098714.html?spm=a2g0o.order_list.order_list_main.10.27ff5e5bdnBtsF&gatewayAdapt=glo2fra) |
 
 ### Mounting options
 
@@ -274,5 +274,6 @@ If it does not work as expected, for example with the following error : "A fatal
   * Close Serial Monitor
   * Change board to any other and select Matrix portal again
   * Unplug USB and plug it again
+  * Hold "boot" button and plus usb cable and then try again
 
 
