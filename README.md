@@ -9,7 +9,7 @@ For a running event I am organizing, [La 147](https://la147.run), I need a suffi
 
 The frame :
 
-![result](./img/result.png)
+![result](./img/ledmatrix_result.png)
 
 ## Hardware
 
@@ -38,7 +38,7 @@ and specifically this example: https://github.com/mrcodetastic/ESP32-HUB75-Matri
 
 It allows you to create a virtual frame with a chain of LED panels:"
 
-![virtualframe-result](./img/virtualframeresult.png)
+![virtualframe-result-back](./img/ledmatrix_back_annot.png)
 
 I choosed the mode `CHAIN_TOP_RIGHT_DOWN`.
 
